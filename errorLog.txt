@@ -1,0 +1,6 @@
+
+571 : TalkException(code=10, reason='not a member', parameterMap={})
+701 : TalkException(code=10, reason='not a member', parameterMap={})
+599 : TalkException(code=8, reason='REVOKE', parameterMap=None)
+120 : TalkException(code=0, reason='invalid mention.', parameterMap=None)
+253 : TalkException(code=0, reason='invalid mention.', parameterMap=None)
